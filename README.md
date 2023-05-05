@@ -1,4 +1,4 @@
-User Authentication with Fake API and Data Table with Redux Toolkit
+User Authentication Redux Toolkit with Fake API and Data Table MUI 
 
 Features
 User Login 
